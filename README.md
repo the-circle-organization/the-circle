@@ -36,7 +36,7 @@ We work with individuals from all around the world, each contributing in their u
 * Obtain a complete copy of the projects after their completion.
 * Creating programs and systems for beneficiaries around the world.
 
-2. We have many job vacancies available.
+2. We have many job vacancies available and here are a list of these jobs
 ##### UI Designer (Team Designers)
 *Job Description*
 - **Requirements Analysis**: Interacts with the development team and users to understand interface requirements and user experience needs.
@@ -71,3 +71,6 @@ We work with individuals from all around the world, each contributing in their u
 - **Test Case Maintenance and Update**: Regularly updates test cases according to changes in the product or application, and maintains and improves testing tools and methodologies.
 - **Collaboration with Development Team**: Interacts with the development team to understand new changes and ensure effective resolution of defects and issues.
 - **Continuous Improvement**: Works on improving testing processes and techniques according to best practices and developments in the testing field.
+
+3. Where to apply?
+We will provide a link where you can apply soon
